@@ -1,4 +1,4 @@
-import keyboard  
+import keyboard
 import time
 import pyautogui
 import cv2
@@ -38,11 +38,11 @@ def has_passed_n_seconds(n, last_time):
 
 def main():
 
-    time_between_beeps = 5  # seconds
+    time_between_beeps = 15  # seconds
 
-    hotkey_to_pause_resume = 'k'
+    hotkey_to_pause_resume = ']'
 
-    hotkey_to_quit = 'l'
+    hotkey_to_quit = '='
     
     # Path to the image template you want to search for
     image = 'photo.png'
