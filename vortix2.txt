@@ -1,0 +1,246 @@
+{
+    "civilization": "French",
+    "name": "vortix 2",
+    "author": "MarcosP",
+    "source": "unknown",
+    "build_order": [
+        {
+            "age": -1,
+            "population_count": -1,
+            "villager_count": 6,
+            "resources": {
+                "food": 6,
+                "wood": 0,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "6    @unit_worker/villager.png@ to   @resource/sheep.png@   "
+            ]
+        },
+        {
+            "age": -1,
+            "population_count": -1,
+            "villager_count": 7,
+            "resources": {
+                "food": 6,
+                "wood": 0,
+                "gold": 1,
+                "stone": 0
+            },
+            "notes": [
+                "1    @unit_worker/villager.png@ build    @building_economy/house.png@ then to   @resource/resource_gold.png@  "
+            ]
+        },
+        {
+            "age": -1,
+            "population_count": -1,
+            "villager_count": 8,
+            "resources": {
+                "food": 7,
+                "wood": 0,
+                "gold": 1,
+                "stone": 0
+            },
+            "notes": [
+                "Next    @unit_worker/villager.png@ to    @resource/sheep.png@   "
+            ]
+        },
+        {
+            "age": -1,
+            "population_count": -1,
+            "villager_count": 10,
+            "resources": {
+                "food": 7,
+                "wood": 0,
+                "gold": 3,
+                "stone": 0
+            },
+            "notes": [
+                "2   @unit_worker/villager.png@  to    @resource/resource_gold.png@   "
+            ]
+        },
+        {
+            "age": -1,
+            "population_count": -1,
+            "villager_count": 12,
+            "resources": {
+                "food": 9,
+                "wood": 0,
+                "gold": 3,
+                "stone": 0
+            },
+            "notes": [
+                "2   @unit_worker/villager.png@ to  @resource/resource_food.png@   "
+            ]
+        },
+        {
+            "age": -1,
+            "population_count": -1,
+            "villager_count": 14,
+            "resources": {
+                "food": 9,
+                "wood": 2,
+                "gold": 3,
+                "stone": 0
+            },
+            "notes": [
+                "2   @unit_worker/villager.png@ to   @resource/resource_wood.png@  "
+            ]
+        },
+        {
+            "age": -1,
+            "population_count": -1,
+            "villager_count": 11,
+            "resources": {
+                "food": 6,
+                "wood": 2,
+                "gold": 3,
+                "stone": 0
+            },
+            "notes": [
+                "3 from  @resource/sheep.png@  to   @age/age_2.png@  "
+            ]
+        },
+        {
+            "age": -1,
+            "population_count": -1,
+            "villager_count": 12,
+            "resources": {
+                "food": 7,
+                "wood": 2,
+                "gold": 3,
+                "stone": 0
+            },
+            "notes": [
+                "1   @unit_worker/villager.png@ to   @building_economy/mill.png@  "
+            ]
+        },
+        {
+            "age": -1,
+            "population_count": -1,
+            "villager_count": 12,
+            "resources": {
+                "food": 7,
+                "wood": 2,
+                "gold": 3,
+                "stone": 0
+            },
+            "notes": [
+                "Research    @technology_economy/wheelbarrow.png@ when have the resources"
+            ]
+        },
+        {
+            "age": -1,
+            "population_count": -1,
+            "villager_count": 13,
+            "resources": {
+                "food": 7,
+                "wood": 2,
+                "gold": 4,
+                "stone": 0
+            },
+            "notes": [
+                "1   @unit_worker/villager.png@  to   @resource/resource_gold.png@  "
+            ]
+        },
+        {
+            "age": -1,
+            "population_count": -1,
+            "villager_count": 13,
+            "resources": {
+                "food": 7,
+                "wood": 2,
+                "gold": 4,
+                "stone": 0
+            },
+            "notes": [
+                "1  @unit_worker/villager.png@ to   @age/age_2.png@ all back to   @resource/sheep.png@  "
+            ]
+        },
+        {
+            "age": -1,
+            "population_count": -1,
+            "villager_count": 14,
+            "resources": {
+                "food": 7,
+                "wood": 3,
+                "gold": 4,
+                "stone": 0
+            },
+            "notes": [
+                "1   @unit_worker/villager.png@ to   @resource/resource_wood.png@  "
+            ]
+        },
+        {
+            "age": -1,
+            "population_count": -1,
+            "villager_count": 18,
+            "resources": {
+                "food": 11,
+                "wood": 3,
+                "gold": 4,
+                "stone": 0
+            },
+            "notes": [
+                "all to   @resource/resource_wood.png@  "
+            ]
+        },
+        {
+            "age": -1,
+            "population_count": -1,
+            "villager_count": -1,
+            "resources": {
+                "food": -1,
+                "wood": -1,
+                "gold": -1,
+                "stone": -1
+            },
+            "notes": [
+                "build   @building_military/archery-range.png@ then   @building_technology/blacksmith.png@  "
+            ]
+        },
+        {
+            "age": -1,
+            "population_count": -1,
+            "villager_count": -1,
+            "resources": {
+                "food": -1,
+                "wood": -1,
+                "gold": -1,
+                "stone": -1
+            },
+            "notes": [
+                "3 from   @resource/resource_wood.png@ to   @resource/resource_gold.png@  "
+            ]
+        },
+        {
+            "age": -1,
+            "population_count": -1,
+            "villager_count": -1,
+            "resources": {
+                "food": -1,
+                "wood": -1,
+                "gold": -1,
+                "stone": -1
+            },
+            "notes": [
+                "5 from   @resource/resource_wood.png@ to   @resource/deer.png@, do @technology_economy/survival-techniques.png@  "
+            ]
+        },
+        {
+            "age": -1,
+            "population_count": -1,
+            "villager_count": -1,
+            "resources": {
+                "food": -1,
+                "wood": -1,
+                "gold": -1,
+                "stone": -1
+            },
+            "notes": [
+                "upgrade  ,   @technology_military/steeled-arrow.png@ ,   @technology_military/wedge-rivets.png@  , maybe   @technology_military/siege-engineering.png@  "
+            ]
+        }
+    ]
+}

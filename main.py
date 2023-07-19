@@ -40,12 +40,13 @@ def main():
 
     time_between_beeps = 15  # seconds
 
-    hotkey_to_pause_resume = ']'
+    hotkey_to_pause_resume = '-'
 
     hotkey_to_quit = '='
     
     # Path to the image template you want to search for
     image = 'photo.png'
+    image2 = 'photo2.png'
 
     paused = False
 
@@ -73,7 +74,7 @@ def main():
                 winsound.Beep(880, 300)
                 break 
             
-            if not paused and has_passed_n_seconds(time_between_beeps, last_beep_time)  and not is_image_on_screen(image):
+            if not paused and has_passed_n_seconds(time_between_beeps, last_beep_time)  and not is_image_on_screen(image) and not is_image_on_screen(image2):
                 # winsound.Beep(660, 400)
                 winsound.PlaySound("make_vils.wav", winsound.SND_FILENAME)
                 print("make villagers")
