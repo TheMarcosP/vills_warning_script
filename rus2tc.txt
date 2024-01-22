@@ -1,0 +1,57 @@
+{
+    "civilization": "Rus",
+    "name": "5:25 TC + FEUDAL PUSH",
+    "author": "Valdemar1902",
+    "source": "unknown",
+    "build_order": [
+        {
+            "age": -1,
+            "population_count": -1,
+            "time": "",
+            "villager_count": -1,
+            "resources": {
+                "food":4,
+                "wood": 5,
+                "gold": -1,
+                "stone": 10
+            },
+            "notes": [
+                "4@unit_worker/villager.png@ to build @building_rus/hunting-cabin.png@ -> rally @resource/sheep.png@",
+
+"Queue 2 @unit_cavalry/scout.png@ + Build @building_economy/house.png@ with 1@unit_worker/villager.png@",
+
+"5@unit_worker/villager.png@ to build @landmark_rus/kremlin.png@@age/age_2.png@ then to @building_economy/lumber-camp.png@ (2:30 )",
+
+"5@resource/resource_food.png@ @unit_worker/villager.png@ to 2 stragglers then to @resource/resource_stone.png@",
+
+"rally to @resource/resource_stone.png@, when stragglers done, rally@resource/sheep.png@(4:30)"
+            ]
+        },
+ 
+
+
+        {
+            "age": -1,
+            "population_count": -1,
+            "time": "5:25",
+            "villager_count": -1,
+            "resources": {
+                "food": 14,
+                "wood": 5,
+                "gold": 5,
+                "stone": -1
+            },
+            "notes": [
+                "Build 2nd @building_economy/town-center.png@ on @resource/deer.png@ or @resource/boar.png@ (if close) get @technology_economy/double-broadaxe.png@ + @technology_economy/wheelbarrow.png@",
+
+"Send 5 @unit_worker/villager.png@ to @building_economy/mining-camp.png@ /rally 50/50 @resource/resource_wood.png@&@resource/resource_food.png@",
+
+"@building_military/stable.png@ -> @unit_cavalry/knight-2.png@",
+
+"2 @building_military/archery-range.png@ (9:30 3rd@building_military/archery-range.png@)",
+
+"Add @building_technology/blacksmith.png@ later for @technology_military/steeled-arrow.png@+@technology_military/siege-engineering.png@ then kill your opponent "
+            ]
+        }
+    ]
+}

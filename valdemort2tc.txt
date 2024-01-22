@@ -1,0 +1,102 @@
+{
+    "civilization": "French",
+    "name": "Trade, Cavalry and Keeps",
+    "author": "unknown",
+    "source": "unknown",
+    "build_order": [
+        {
+            "age": -1,
+            "population_count": -1,
+            "time": "0:00",
+            "villager_count": -1,
+            "resources": {
+                "food": 6,
+                "wood": -1,
+                "gold": -1,
+                "stone": -1
+            },
+            "notes": [
+                "First 6 \n    \n        \n    @unit_worker/villager.png@\n     to \n    \n        \n    @resource/sheep.png@ 1 \n    @unit_worker/villager.png@ build \n    @building_economy/house.png@ then to \n    @resource/sheep.png@, 3 \n    @unit_worker/villager.png@ to \n    @resource/resource_gold.png@"
+            ]
+        },
+        {
+            "age": -1,
+            "population_count": -1,
+            "time": "1:32",
+            "villager_count": -1,
+            "resources": {
+                "food": 10,
+                "wood": -1,
+                "gold": 3,
+                "stone": -1
+            },
+            "notes": [
+                "Rally \n    \n        \n    @resource/sheep.png@\n     until \n    \n        \n    @age/age_2.png@, Age up with 5 \n    @resource/resource_food.png@ \n    @unit_worker/villager.png@ and \n    @landmark_french/school-of-cavalry.png@ (SoC)"
+            ]
+        },
+        {
+            "age": -1,
+            "population_count": -1,
+            "time": "3:00",
+            "villager_count": -1,
+            "resources": {
+                "food": 7,
+                "wood": -1,
+                "gold": -1,
+                "stone": 3
+            },
+            "notes": [
+                "\n    @resource/resource_gold.png@ until 100, then Send \n    \n        \n    @resource/resource_gold.png@\n    \n    \n        \n    @unit_worker/villager.png@\n     to \n    \n        \n    @building_economy/mining-camp.png@\n    \n    \n        \n    @resource/resource_stone.png@\n    "
+            ]
+        },
+        {
+            "age": -1,
+            "population_count": -1,
+            "time": "3:49",
+            "villager_count": -1,
+            "resources": {
+                "food": 4,
+                "wood": -1,
+                "gold": -1,
+                "stone": 5
+            },
+            "notes": [
+                " 1 \n    \n        \n    @unit_french/royal-knight-2.png@, from \n    @age/age_2.png@\n\n    @unit_worker/villager.png@\n    : 3 to \n    \n        \n    @resource/resource_wood.png@\n    / 2 to \n    \n        \n    @resource/resource_stone.png@, rally \n    @resource/resource_wood.png@"
+            ]
+        },
+        {
+            "age": -1,
+            "population_count": -1,
+            "time": "~5:25",
+            "villager_count": -1,
+            "resources": {
+                "food": 4,
+                "wood": 9,
+                "gold": -1,
+                "stone": -1
+            },
+            "notes": [
+                "10 \n    \n        \n    @unit_worker/villager.png@\n     from \n    \n        \n    @resource/resource_stone.png@\n    & \n    \n        \n    @resource/resource_wood.png@\n     to build \n    \n        \n    @building_economy/town-center.png@\n     on \n    \n        \n    @resource/deer.png@\n    "
+            ]
+        },
+        {
+            "age": -1,
+            "population_count": -1,
+            "time": "~6:00",
+            "villager_count": -1,
+            "resources": {
+                "food": 18,
+                "wood": 7,
+                "gold": 5,
+                "stone": -1
+            },
+            "notes": [
+                "Split according to tab (left) for \n    \n        \n    @unit_french/royal-knight-2.png@\n    +\n    \n        \n    @unit_infantry/archer-2.png@\n    Add \n    \n        \n    @building_technology/blacksmith.png@\n     and more production for feudal army.",
+                "Go on pocket resouces (\n    \n        \n    @resource/boar.png@\n    +\n    \n        \n    @resource/deer.png@\n    ) and delay farm-transition through map control.",
+                "When \n    \n        \n    @age/age_3.png@\n     go \n    \n        \n    @landmark_french/royal-institute.png@\n     if you have a group of \n    \n        \n    @unit_french/royal-knight-2.png@\n    .",
+                "Go \n    \n        \n    @landmark_french/guild-hall.png@\n     if less army.",
+                ""
+            ]
+        }
+    ]
+}
